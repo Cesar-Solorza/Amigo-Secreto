@@ -9,6 +9,6 @@ Funciones principales:  Lista amigos, Agregar amigo, Actualizar lista de amigos,
 Agregar amigos
 ![imagen](https://github.com/user-attachments/assets/8f1130ec-aafc-4428-adb9-debeab141f6c)
 
-Sortear amigo secreto
+Sorteo de amigo secreto
 ![imagen](https://github.com/user-attachments/assets/5fbf5cf0-ddd3-4fb1-99a6-340d9675d0db)
 
